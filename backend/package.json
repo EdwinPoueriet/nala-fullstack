@@ -16,7 +16,10 @@
   "jest": {
     "testEnvironment": "node",
     "transform": {},
-    "moduleFileExtensions": ["js", "json"],
+    "moduleFileExtensions": [
+      "js",
+      "json"
+    ],
     "extensionsToTreatAsEsm": [],
     "moduleNameMapper": {
       "^(\\.{1,2}/.*)\\.js$": "$1"
