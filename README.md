@@ -1,5 +1,6 @@
-Aplicación de Organigrama
-Una aplicación interactiva para construir organigramas que permite a las empresas crear y gestionar su estructura organizacional a través de una interfaz de arrastrar y soltar. Construida con React y Node.js.
+#Aplicación de Organigrama
+
+##Una aplicación interactiva para construir organigramas que permite a las empresas crear y gestionar su estructura organizacional a través de una interfaz de arrastrar y soltar. Construida con React y Node.js.
 Características
 
 Interfaz interactiva de arrastrar y soltar para gestión de posiciones
