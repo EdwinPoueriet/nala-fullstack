@@ -1,0 +1,123 @@
+{
+  "positions": [
+    {
+      "title": "New Position",
+      "tier": 1,
+      "x": 0,
+      "y": 0,
+      "id": "28YUeSL6aukc-FCi3vN3m",
+      "division": "3"
+    },
+    {
+      "title": "New Position",
+      "tier": 1,
+      "x": 1,
+      "y": 0,
+      "division": "",
+      "id": "4HhRzwrb5hC4TMG7dO2uj"
+    }
+  ],
+  "employees": [
+    {
+      "id": "emp-001",
+      "name": "John Martinez",
+      "position": null,
+      "email": "john.martinez@company.com"
+    },
+    {
+      "id": "emp-002",
+      "name": "Sarah Chen",
+      "position": null,
+      "email": "sarah.chen@company.com"
+    },
+    {
+      "id": "emp-003",
+      "name": "Michael Rodriguez",
+      "position": null,
+      "email": "michael.rodriguez@company.com"
+    },
+    {
+      "id": "emp-004",
+      "name": "Emily Johnson",
+      "position": null,
+      "email": "emily.johnson@company.com"
+    },
+    {
+      "id": "emp-005",
+      "name": "David Kim",
+      "position": null,
+      "email": "david.kim@company.com"
+    },
+    {
+      "id": "emp-006",
+      "name": "Lisa Wang",
+      "position": null,
+      "email": "lisa.wang@company.com"
+    },
+    {
+      "id": "emp-007",
+      "name": "Robert Taylor",
+      "position": null,
+      "email": "robert.taylor@company.com"
+    },
+    {
+      "id": "emp-008",
+      "name": "Amanda Patel",
+      "position": null,
+      "email": "amanda.patel@company.com"
+    },
+    {
+      "id": "emp-009",
+      "name": "James Wilson",
+      "position": null,
+      "email": "james.wilson@company.com"
+    },
+    {
+      "id": "emp-010",
+      "name": "Maria Garcia",
+      "position": null,
+      "email": "maria.garcia@company.com"
+    }
+  ],
+  "divisions": [
+    {
+      "id": "1",
+      "name": "Operations"
+    },
+    {
+      "id": "2",
+      "name": "Sales"
+    },
+    {
+      "id": "3",
+      "name": "IT"
+    },
+    {
+      "id": "4",
+      "name": "HR"
+    }
+  ],
+  "tiers": [
+    {
+      "id": 1,
+      "name": "TIER 1",
+      "order": 1,
+      "slots": 5,
+      "positions": []
+    },
+    {
+      "id": 2,
+      "name": "TIER 2",
+      "order": 2,
+      "slots": 5,
+      "positions": []
+    },
+    {
+      "id": 3,
+      "name": "TIER 3",
+      "order": 3,
+      "slots": 5,
+      "positions": []
+    }
+  ]
+}
