@@ -57,7 +57,7 @@ export const Organigram: React.FC<OrganigramProps> = ({
         minScale={minScale}
         maxScale={maxScale}
         disabled={isDragging}
-        limitToBounds={true}
+        limitToBounds={false}
         centerOnInit={true}
       >
         {({ zoomIn, zoomOut }) => (
