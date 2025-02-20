@@ -43,6 +43,8 @@ luego
 cd backend
 yarn dev
 
+// pendientes, 
+
 cd frontend
 yarn dev
 
